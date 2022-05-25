@@ -15,9 +15,14 @@ Familiaran, the fans of Arurandeisu who HololiveProduction's Vtuber.
 ## How to install
 
 1. Download / Install the [Forge 1.18.2](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.18.2.html)
-2. Download Jar file from release page.
-3. Mod file into your Mods folder.
+2. Download the latest version from [release](https://github.com/SuperMekabu/pizzarandeisu/releases) page.
+3. Jar file into your Mods folder.
 4. Then play the Minecraft.
+
+## Support Version
+
+This mod made for `1.18.2`.  
+Operation with other versions is not guaranteed.
 
 ## How to cook pizza
 
@@ -25,7 +30,7 @@ Familiaran, the fans of Arurandeisu who HololiveProduction's Vtuber.
 
 1. Cook the `Cooked PorkChop`
 2. Put one `Cooked PorkChop` to the `Crafting table`
-    1. You can get the 3 `Pulled Pork`
+   1. You can get the 3 `Pulled Pork`
 3. Put 3 `Wheat` at one line lower, put 3 `Pulled Pork` at one line above wheat
 4. You got it!
 
