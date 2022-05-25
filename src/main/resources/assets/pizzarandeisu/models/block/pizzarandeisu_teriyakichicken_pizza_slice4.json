@@ -1,0 +1,44 @@
+{
+  "textures": {
+    "particle": "pizzarandeisu:block/pizzarandeisu_teriyakichicken_pizza_side",
+    "bottom": "pizzarandeisu:block/pizzarandeisu_teriyakichicken_pizza_bottom",
+    "top": "pizzarandeisu:block/pizzarandeisu_teriyakichicken_pizza_top",
+    "side": "pizzarandeisu:block/pizzarandeisu_teriyakichicken_pizza_side",
+    "inside": "pizzarandeisu:block/pizzarandeisu_teriyakichicken_pizza_inner"
+  },
+  "elements": [
+    {
+      "from": [
+        9,
+        0,
+        1
+      ],
+      "to": [
+        15,
+        8,
+        15
+      ],
+      "faces": {
+        "down": {
+          "texture": "#bottom",
+          "cullface": "down"
+        },
+        "up": {
+          "texture": "#top"
+        },
+        "north": {
+          "texture": "#side"
+        },
+        "south": {
+          "texture": "#side"
+        },
+        "west": {
+          "texture": "#inside"
+        },
+        "east": {
+          "texture": "#side"
+        }
+      }
+    }
+  ]
+}

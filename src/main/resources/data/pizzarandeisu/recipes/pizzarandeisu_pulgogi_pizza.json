@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "XXX"
+  ],
+  "key": {
+    "#": {
+      "item": "pizzarandeisu:pizzarandeisu_pulgogi"
+    },
+    "X": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "result": {
+    "item": "pizzarandeisu:pizzarandeisu_pulgogi_pizza"
+  }
+}

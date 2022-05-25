@@ -1,0 +1,73 @@
+{
+  "stats": {
+    "minecraft:killed": {
+      "minecraft:spider": 1
+    },
+    "minecraft:dropped": {
+      "minecraft:cooked_beef": 1,
+      "pizzarandeisu:pizzarandeisu_teriyakichicken": 3,
+      "minecraft:cooked_porkchop": 62,
+      "minecraft:wheat": 53,
+      "pizzarandeisu:pizzarandeisu_pulgogi": 3,
+      "pizzarandeisu:pizzarandeisu_pulledpork_pizza": 2,
+      "pizzarandeisu:pizzarandeisu_pulledpork": 59
+    },
+    "minecraft:killed_by": {
+      "minecraft:zombie": 1
+    },
+    "minecraft:crafted": {
+      "pizzarandeisu:pizzarandeisu_teriyakichicken_pizza": 1,
+      "pizzarandeisu:pizzarandeisu_pulgogi_pizza": 1,
+      "pizzarandeisu:pizzarandeisu_teriyakichicken": 15,
+      "pizzarandeisu:pizzarandeisu_pulledpork": 18,
+      "pizzarandeisu:pizzarandeisu_pulledpork_pizza": 4,
+      "pizzarandeisu:pizzarandeisu_pulgogi": 15
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 57702,
+      "minecraft:sprint_one_cm": 10621,
+      "minecraft:damage_taken": 580,
+      "minecraft:walk_one_cm": 37925,
+      "minecraft:mob_kills": 1,
+      "minecraft:drop": 17,
+      "minecraft:damage_dealt": 160,
+      "minecraft:interact_with_crafting_table": 7,
+      "minecraft:fly_one_cm": 19337,
+      "minecraft:crouch_one_cm": 1052,
+      "minecraft:play_time": 96287,
+      "minecraft:deaths": 1,
+      "minecraft:sneak_time": 820,
+      "minecraft:jump": 507,
+      "minecraft:eat_cake_slice": 53,
+      "minecraft:leave_game": 26,
+      "minecraft:time_since_death": 55916,
+      "minecraft:total_world_time": 149804,
+      "minecraft:fall_one_cm": 8023
+    },
+    "minecraft:mined": {
+      "minecraft:hay_block": 48,
+      "pizzarandeisu:pizzarandeisu_pulledpork_pizza": 2,
+      "minecraft:oak_leaves": 3
+    },
+    "minecraft:used": {
+      "pizzarandeisu:pizzarandeisu_teriyakichicken_pizza": 3,
+      "minecraft:diamond_sword": 3,
+      "pizzarandeisu:pizzarandeisu_pulgogi_pizza": 3,
+      "minecraft:hay_block": 46,
+      "minecraft:crafting_table": 3,
+      "pizzarandeisu:pizzarandeisu_pulledpork_pizza": 37,
+      "pizzarandeisu:pizzarandeisu_pulledpork": 2
+    },
+    "minecraft:picked_up": {
+      "pizzarandeisu:pizzarandeisu_teriyakichicken": 3,
+      "minecraft:cooked_beef": 1,
+      "minecraft:wheat": 53,
+      "minecraft:cooked_porkchop": 62,
+      "pizzarandeisu:pizzarandeisu_pulgogi": 3,
+      "pizzarandeisu:pizzarandeisu_pulledpork": 59,
+      "pizzarandeisu:pizzarandeisu_pulledpork_pizza": 2,
+      "minecraft:hay_block": 46
+    }
+  },
+  "DataVersion": 2975
+}

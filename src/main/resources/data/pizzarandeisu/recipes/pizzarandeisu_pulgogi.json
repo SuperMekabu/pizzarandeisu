@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:cooked_beef"
+    }
+  },
+  "result": {
+    "item": "pizzarandeisu:pizzarandeisu_pulgogi",
+    "count": 3
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "pizzarandeisu:item/pizzarandeisu_pulledpork_pizza"
+  }
+}
